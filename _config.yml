@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chengyu Du / Site Title"
+title                    : "Chengyu Du"
 title_separator          : "-"
 name                     : &name "Chengyu Du"
 description              : &description "Ph.D student in Biostatistics"
-url                      : https://ChengyuRicardoDu.github.io 
+url                      : "https://ChengyuRicardoDu.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChengyuRicardoDu/ChengyuRicardoDu.github.io"
 
