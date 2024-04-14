@@ -12,7 +12,7 @@ title                    : "Chengyu Du / Site Title"
 title_separator          : "-"
 name                     : &name "Chengyu Du"
 description              : &description "Ph.D student in Biostatistics"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ChengyuRicardoDu.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChengyuRicardoDu/ChengyuRicardoDu.github.io"
 
