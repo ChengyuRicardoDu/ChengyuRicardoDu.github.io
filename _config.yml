@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chengyu Du/Personal Homepage"
+title                    : "Chengyu Du"
 title_separator          : "-"
 name                     : &name "Chengyu Du"
 description              : &description "Ph.D student in Biostatistics"
