@@ -20,10 +20,10 @@ Research Interests:
 
 I am passionate about developing computational methods and software to process, integrate and analyze spatial genomics data. My primary research interests include:
 
-### High-Dimensional Data
-### Sufficient Dimension Reduction
-### Biomedical Applications: Infectious Diseases, Cancer Genetics/Genomics
-### Causal Inference
+- High-Dimensional Data
+- Sufficient Dimension Reduction
+- Biomedical Applications: Infectious Diseases, Cancer Genetics/Genomics
+- Causal Inference
 
 
 
