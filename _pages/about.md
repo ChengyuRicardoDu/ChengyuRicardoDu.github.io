@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Chengyu Du’s personal website!"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
