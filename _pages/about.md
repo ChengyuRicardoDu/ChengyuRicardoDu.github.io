@@ -15,9 +15,6 @@ I am a incoming Ph.D Student in Biostatistiics at the University of Massachusett
 Research Interests:
 ------
 
-Research Interests:
-------
-
 I am passionate about developing computational methods and software to process, integrate and analyze spatial genomics data. My primary research interests include:
 
 - High-Dimensional Data
