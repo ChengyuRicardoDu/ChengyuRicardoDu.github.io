@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Biostatistics, GitHub University, 2024-2029 (expected)
-* M.S. in Statistics, University of Illinois at Urbana - Champaign, 2022-2024
+* Ph.D in Biostatistics, University of Massachusetts Amherst, 2024-2029 (expected)
+* M.S. in Statistics, University of Illinois Urbana-Champaign, 2022-2024
 * B.S. in Mathematics and Applied Mathematics, Beijing Normal University, 2017-2021
 
 Work experience
@@ -47,17 +47,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
