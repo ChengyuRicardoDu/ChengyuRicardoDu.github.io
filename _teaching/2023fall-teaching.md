@@ -2,7 +2,7 @@
 title: "University of Illinois Urbana-Champaign, Course Assistant"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2023fall-teaching
 venue: "University 1, Department"
 date: 2014-01-01
 location: "Champaign, Illinois"
