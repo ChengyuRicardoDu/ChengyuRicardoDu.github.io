@@ -4,9 +4,9 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-# University of Illinois Urbana-Champaign, Department of Statistics
+## University of Illinois Urbana-Champaign, Department of Statistics
 
-## STAT 432: Basics of Statistical Learning
+### STAT 432: Basics of Statistical Learning
 - **Semester**: 2023Fall
 - **Role**: Course Assistant
 - **Responsibilities**:
