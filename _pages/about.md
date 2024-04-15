@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-I am a incoming Ph.D Student in Biostatistiics at the University of Massachusetts Amherst.I obtained my Bachelor’s degree in Mathematics from Beijing Normal University(China). I am graduating in May with a Master's degree in statistics from the University of Illinois at Urbana-Champaign. I was fortunate to be advised by Professor [Ruoqing Zhu](https://sites.google.com/site/teazrq/home) on fields of influence function.
+I am an incoming Ph.D. student in Biostatistics at the University of Massachusetts Amherst. I earned my Bachelor's degree in Mathematics from Beijing Normal University, China. In May, I will be graduating with a Master's degree in Statistics from the University of Illinois at Urbana-Champaign. Under the guidance of Professor [Ruoqing Zhu](https://sites.google.com/site/teazrq/home), I have had the privilege to explore and conduct research in Statistical Genetics and Manifold Learning. 
 
 
 Research Interests:
