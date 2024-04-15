@@ -4,15 +4,15 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-### [University of Illinois Urbana-Champaign], [Department of Statistics]
+# University of Illinois Urbana-Champaign, Department of Statistics
 
-#### STAT 432: [Basics of Statistical Learning]
-- **Semester**: [2023Fall]
-- **Role**: [Course Assistant]
+## STAT 432: Basics of Statistical Learning
+- **Semester**: 2023Fall
+- **Role**: Course Assistant
 - **Responsibilities**:
-  - [Responsibility 1, e.g., Grading assignments]
-  - [Responsibility 2, e.g., Conducting lab sessions]
-  - [Responsibility 3, e.g., Providing student support and office hours]
+  - Responsibility 1, e.g., Grading assignments
+  - Responsibility 2, e.g., Conducting lab sessions
+  - Responsibility 3, e.g., Providing student support and office hours
 - **Course Description**: 
   - This course covers a wide range of topics in machine learning, including both supervised and unsupervised learning techniques. Key areas of focus include:
     - **Supervised Learning**:
