@@ -52,8 +52,8 @@ Work experience
 Publications
 ======
 * Smoothed Dimension Reduction in Spatial Transcriptomics Through Functional Embedding
-- **Authors:** Chengyu Du, Zirui Li, Boyi Guo, Ruoqing Zhu
-- **Status:** Manuscript in preparation
+  * Authors:Chengyu Du, Zirui Li, Boyi Guo, Ruoqing Zhu
+  * Status:Manuscript in preparation
 
 Software
 ======
