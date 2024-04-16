@@ -6,9 +6,8 @@ author_profile: true
 ---
 ## University of Illinois Urbana-Champaign, Department of Statistics
 
-### STAT 432: Basics of Statistical Learning
+### STAT 432: Basics of Statistical Learning, Course Assistant
 - **Semester**: 2023Fall
-- **Role**: Course Assistant
 - **Course Description**: 
   - This course covers a wide range of topics in machine learning, including both supervised and unsupervised learning techniques. Key areas of focus include:
     - **Supervised Learning**:
