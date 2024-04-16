@@ -17,10 +17,9 @@ Education
 
 Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* May 2023: University of Illinois Urbana-Champaign
+  * Research Assistant,Supervised by Ruoqing Zhu.
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
 * Fall 2015: Research Assistant
   * Github University
@@ -48,20 +47,27 @@ Work experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+ 
+ 
+Publications
+======
+### Manuscripts in Preparation
+#### Smoothed Dimension Reduction in Spatial Transcriptomics Through Functional Embedding
+- **Authors:** Chengyu Du, Zirui Li, Boyi Guo, Ruoqing Zhu
+- **Status:** Manuscript in preparation
+
+Softwares
+======
+
+* Spatially Smoothed Dimension Reduction(R package ssdr)
+  * This package provides tools for smoothed dimension reduction in spatial transcriptomics through functional embedding.
+
+
 Skills
 ======
-* Typesetting and Publishing
-  * LaTeX
-  * Markdown
-* Programming Languages
-  * Python
-  * R
-  * C++
-* Developer Tools
-  * VS Code
-  * Shell Scripting
-* Languages
-  * Mandarin(Native)
-  * English(Fluent)
+* Typesetting and Publishing: LaTeX, Markdown
+* Programming Languages: Python, R, C++
+* Languages: Mandarin(Native), English(Fluent)
+
+
 
