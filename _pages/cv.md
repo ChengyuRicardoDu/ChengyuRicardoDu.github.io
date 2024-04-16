@@ -17,11 +17,11 @@ Education
 
 Research Experience
 ======
-* May 2023: University of Illinois Urbana-Champaign
+* May 2023 - Present: University of Illinois Urbana-Champaign
   * Research Assistant,Supervised by Ruoqing Zhu.
   * Duties includes: Updates and improvements to template
 
-* Fall 2015: Research Assistant
+* Sep 2023 - Present: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
@@ -60,6 +60,7 @@ Software
 
 * Spatially Smoothed Dimension Reduction(R package ssdr)
   * This package provides tools for smoothed dimension reduction in spatial transcriptomics through functional embedding.
+  * Status: Will be submitted to CRAN in summer 2024.
 
 
 Skills
