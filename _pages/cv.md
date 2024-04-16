@@ -51,12 +51,11 @@ Work experience
  
 Publications
 ======
-### Manuscripts in Preparation
-#### Smoothed Dimension Reduction in Spatial Transcriptomics Through Functional Embedding
+* Smoothed Dimension Reduction in Spatial Transcriptomics Through Functional Embedding
 - **Authors:** Chengyu Du, Zirui Li, Boyi Guo, Ruoqing Zhu
 - **Status:** Manuscript in preparation
 
-Softwares
+Software
 ======
 
 * Spatially Smoothed Dimension Reduction(R package ssdr)
