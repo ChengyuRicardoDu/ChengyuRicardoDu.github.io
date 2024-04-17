@@ -21,13 +21,13 @@ Research Experience
   * Research Assistant,Supervised by Ruoqing Zhu.
   * Duties includes: Updates and improvements to template
 
-* Sep 2023 - Present: Research Assistant
-  * Github University
+* Sep 2023 - Present: University of Illinois Urbana-Champaign
+  * Student Researcher, Supervised by Lelys Bravo De Guenni.
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
+* Jan 2024 - April 2024: University of Illinois Urbana-Champaign
+  * Statistical Consultant, Supervisor by Jing Yang.
   * Duties included: Tagging issues
   * Supervisor: Professor Git
  
@@ -37,16 +37,6 @@ Work experience
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
  
  
 Publications
