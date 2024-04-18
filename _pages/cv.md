@@ -19,24 +19,20 @@ Research Experience
 ======
 * May 2023 - Present: University of Illinois Urbana-Champaign
   * Research Assistant,Supervised by Ruoqing Zhu.
-  * Duties includes: Updates and improvements to template
-
+  * Joint Embedding of 10X Visium Data and Merfish Data with Regular Penalty.
+ 
 * Sep 2023 - Present: University of Illinois Urbana-Champaign
   * Student Researcher, Supervised by Lelys Bravo De Guenni.
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Overcoming mosquito collections missing data and Convergence Cross Capping.
 
 * Jan 2024 - April 2024: University of Illinois Urbana-Champaign
   * Statistical Consultant, Supervisor by Jing Yang.
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Correlation between m5C Modification and Phase Transition of mRNAs.
  
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2021 - August 2021: Polytechnic Innovation (Beijing) Investment Management Co.Ltd, Beijing,China
+  * Project Analyst Intern, Supervised by Yingying Dai.
  
  
 Publications
