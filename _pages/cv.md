@@ -43,7 +43,7 @@ Publications
  
 Honors&Rewards
 ======
-* SPHHS Dean’s PhD Fellowship                                                                                                         April 2024
+* SPHHS Dean’s PhD Fellowship, April 2024
 
 Software
 ======
