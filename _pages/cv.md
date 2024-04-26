@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Biostatistics, University of Massachusetts Amherst, 2024-2029 (expected)
+* Ph.D. in Biostatistics, University of Massachusetts Amherst, 2024-2029 (expected)
 * M.S. in Statistics, University of Illinois Urbana-Champaign, 2022-2024
 * B.S. in Mathematics and Applied Mathematics, Beijing Normal University, 2017-2021
 
