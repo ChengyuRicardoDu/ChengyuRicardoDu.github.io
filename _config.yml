@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Chengyu Du"
 title_separator          : "-"
 name                     : &name "Chengyu Du"
-description              : &description "Ph.D student in Biostatistics"
+description              : &description "Ph.D. student in Biostatistics"
 url                      : https://chengyuricardodu.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChengyuRicardoDu/ChengyuRicardoDu.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Chengyu Du, Ph.D"
   pronouns         : "he/him"  
-  bio              : "Incoming Ph.D student in Biostatistics"
+  bio              : "Incoming Ph.D. student in Biostatistics"
   location         : "Champaign,Illinois"
   employer         : "Univesity of Illinois at Urbana-Champaign"
   uri              : # URL
