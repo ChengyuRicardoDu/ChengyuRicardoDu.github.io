@@ -7,21 +7,30 @@ redirect_from:
   - /about.html
 ---
 
+I am a doctoral student in Biostatistics at the University of Massachusetts Amherst (advisor: Dr. Zhengqing Ouyang), and also an M.S. student in Computer Science at UMass Amherst. I received my M.S. in Statistics from the University of Illinois Urbana-Champaign and my B.S. in Mathematics and Applied Mathematics from Beijing Normal University.
 
+My research focuses on statistical and computational methods for high-dimensional biological data, especially spatial transcriptomics and 3D genomics. I am particularly interested in kernel methods and manifold learning for understanding complex biological systems.
 
-I am an incoming Ph.D. student in Biostatistics at the University of Massachusetts Amherst. I earned my Bachelor's degree in Mathematics from Beijing Normal University, China. In May, I will be graduating with a Master's degree in Statistics from the University of Illinois at Urbana-Champaign. Under the guidance of Professor [Ruoqing Zhu](https://sites.google.com/site/teazrq/home), I have had the privilege to explore and conduct research in Statistical Genetics and Manifold Learning. 
-
-
-Research Interests:
+Research Interests
 ------
 
-I am passionate about developing computational methods and software to process, integrate and analyze spatial genomics data. My primary research interests include:
+- Spatial Transcriptomics
+- 3D Genomics
+- Kernel Methods
+- Manifold Learning
+- High-dimensional Data Analysis
 
-- High-Dimensional Data
-- Sufficient Dimension Reduction
-- Biomedical Applications: Infectious Diseases, Cancer Genetics/Genomics
-- Causal Inference
+Selected Honors
+------
 
+- SPHHS Dean's PhD Fellowship (UMass Amherst, 2024-2026)
+- Merit-based Scholarship (BNU, 2018-2021)
+
+Contact
+------
+
+- Email: [chengyudu@umass.edu](mailto:chengyudu@umass.edu)
+- Website: [chengyuricardodu.github.io](https://chengyuricardodu.github.io)
 
 
 

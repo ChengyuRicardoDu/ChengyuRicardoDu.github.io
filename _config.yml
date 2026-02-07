@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Chengyu Du"
 title_separator          : "-"
 name                     : &name "Chengyu Du"
-description              : &description "Ph.D. student in Biostatistics"
+description              : &description "Doctoral Student in Biostatistics at UMass Amherst"
 url                      : https://chengyuricardodu.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChengyuRicardoDu/ChengyuRicardoDu.github.io"
@@ -22,13 +22,13 @@ repository               : "ChengyuRicardoDu/ChengyuRicardoDu.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Chengyu Du, Ph.D"
+  name             : "Chengyu Du"
   pronouns         : "he/him"  
-  bio              : "Incoming Ph.D. student in Biostatistics"
-  location         : "Champaign,Illinois"
-  employer         : "Univesity of Illinois at Urbana-Champaign"
+  bio              : "Doctoral Student in Biostatistics, UMass Amherst"
+  location         : "Amherst, Massachusetts"
+  employer         : "University of Massachusetts Amherst"
   uri              : # URL
-  email            : "cd29@illinois.edu" 
+  email            : "chengyudu@umass.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

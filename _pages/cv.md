@@ -11,31 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Biostatistics, University of Massachusetts Amherst, 2024-2029 (expected)
-* M.S. in Statistics, University of Illinois Urbana-Champaign, 2022-2024
-* B.S. in Mathematics and Applied Mathematics, Beijing Normal University, 2017-2021
+* Doctoral Student in Biostatistics, University of Massachusetts Amherst, Aug 2024 - Present
+* M.S. Student in Computer Science, University of Massachusetts Amherst, Jan 2025 - Present
+* M.S. in Statistics, University of Illinois Urbana-Champaign, Aug 2022 - May 2024
+* B.S. in Mathematics and Applied Mathematics, Beijing Normal University, Sep 2017 - Jun 2021
 
-Research Experience
+Selected Courses (PhD-Level)
 ======
-* May 2023 - Present: University of Illinois Urbana-Champaign
-  * Research Assistant,Supervised by Ruoqing Zhu.
-  * Joint Embedding of 10X Visium Data and Merfish Data with Regular Penalty.
- 
-* Sep 2023 - Present: University of Illinois Urbana-Champaign
-  * Student Researcher, Supervised by Lelys Bravo De Guenni.
-  * Overcoming mosquito collections missing data and Convergence Cross Capping.
+* Statistics and Data Science: Statistical Learning; Advanced Regression Model I&II; Applied Bayesian Inference; Mixed Model Analysis; High-dimensional Data Analysis; Multivariate Analysis; Survival Analysis; Time Series Analysis
+* Computer Science: Reinforcement Learning; Computational Biology & Bioinformatics; Probabilistic Graphical Models
+* Mathematics: Probability and Measure; Large Sample Theory; Stochastic Calculus
 
-* Jan 2024 - April 2024: University of Illinois Urbana-Champaign
-  * Statistical Consultant, Supervisor by Jing Yang.
-  * Correlation between m5C Modification and Phase Transition of mRNAs.
- 
-Work experience
+Profile
 ======
-* May 2021 - August 2021: Polytechnic Innovation (Beijing) Investment Management Co.Ltd, Beijing,China
-  * Project Analyst Intern, Supervised by Yingying Dai.
- 
- 
-Publications
+I am an interdisciplinary Ph.D. student with a strong foundation in statistics, applied mathematics, and computer science. My work develops statistical and computational frameworks for high-dimensional biological data integration, with current emphasis on spatial transcriptomics and 3D genomics. I am particularly interested in kernel methods and manifold learning.
+
+Publications / Preprints
 ======
 * Smoothed Dimension Reduction in Spatial Transcriptomics Through Functional Embedding
   * Authors: Chengyu Du, Zirui Li, Boyi Guo, Ruoqing Zhu
@@ -43,21 +34,14 @@ Publications
  
 Honors&Rewards
 ======
-* SPHHS Dean’s PhD Fellowship, 2024 - 2025
-
-Software
-======
-
-* Spatially Smoothed Dimension Reduction(R package ssdr)
-  * This package provides tools for smoothed dimension reduction in spatial transcriptomics through functional embedding.
-  * Status: Will be submitted to CRAN in summer 2024.
+* SPHHS Dean's PhD Fellowship ($30,000), UMass Amherst, 2024 - 2026
+* Merit-based Scholarship, Beijing Normal University, 2018 - 2021
 
 
 Skills
 ======
-* Typesetting and Publishing: LaTeX, Markdown
 * Programming Languages: Python, R, C++
-* Languages: Mandarin(Native), English(Fluent)
-
+* Typesetting: LaTeX, Markdown
+* Languages: Mandarin (Native), English (Fluent)
 
 
