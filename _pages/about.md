@@ -15,7 +15,6 @@ redirect_from:
 - [Education](#education)
 - [Selected Courses](#selected-courses-phd-level)
 - [Research Interests](#research-interests)
-- [Mentorship & Lab](#mentorship--lab)
 - [Previous Research Experience](#previous-research-experience)
 - [Teaching Experience](#teaching-experience)
 - [Publications / Preprints](#publications--preprints)
@@ -28,6 +27,8 @@ redirect_from:
 I am a doctoral student in Biostatistics at the University of Massachusetts Amherst (advisor: Dr. Zhengqing Ouyang), and also an M.S. student in Computer Science at UMass Amherst. I received my M.S. in Statistics from the University of Illinois Urbana-Champaign and my B.S. in Mathematics and Applied Mathematics from Beijing Normal University.
 
 My research focuses on statistical and computational methods for high-dimensional biological data, especially spatial transcriptomics and 3D genomics. I am particularly interested in kernel methods and manifold learning for understanding complex biological systems.
+
+I am currently advised by Dr. Zhengqing Ouyang and work with the [Ouyang Lab](https://people.umass.edu/ouyanglab/). Previously, during my M.S. training at the University of Illinois Urbana-Champaign, I worked closely with Prof. [Ruoqing Zhu](https://sites.google.com/site/teazrq/) on statistical learning problems in high-dimensional biology, including spatial transcriptomics and dimension reduction.
 
 ## Education
 
@@ -49,12 +50,6 @@ My research focuses on statistical and computational methods for high-dimensiona
 - Kernel Methods
 - Manifold Learning
 - High-dimensional Data Analysis
-
-## Mentorship & Lab
-
-I am currently a doctoral student in Biostatistics at UMass Amherst, where I am advised by Dr. Zhengqing Ouyang and work with the [Ouyang Lab](https://people.umass.edu/ouyanglab/).
-
-Previously, during my M.S. training at the University of Illinois Urbana-Champaign, I worked closely with Prof. [Ruoqing Zhu](https://sites.google.com/site/teazrq/) on statistical learning problems in high-dimensional biology, including spatial transcriptomics and dimension reduction.
 
 ## Previous Research Experience
 
@@ -96,4 +91,3 @@ Previously, during my M.S. training at the University of Illinois Urbana-Champai
 
 - Email: [chengyudu@umass.edu](mailto:chengyudu@umass.edu)
 - Website: [chengyuricardodu.github.io](https://chengyuricardodu.github.io)
-
