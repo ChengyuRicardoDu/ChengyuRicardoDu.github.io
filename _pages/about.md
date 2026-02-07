@@ -2,23 +2,10 @@
 permalink: /
 title: "About Me"
 author_profile: true
-toc: true
-toc_sticky: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## Navigation
-
-- [About Me](#about-me)
-- [Education](#education)
-- [Selected Courses](#selected-courses-phd-level)
-- [Research Interests](#research-interests)
-- [Teaching Experience](#teaching-experience)
-- [Publications / Preprints](#publications--preprints)
-- [Honors](#honors--awards)
-- [Skills](#skills)
 
 ## About Me
 
