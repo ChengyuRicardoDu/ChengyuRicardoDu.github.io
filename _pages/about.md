@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
-
 I am a doctoral student in Biostatistics at the University of Massachusetts Amherst, where I am advised by Dr. Zhengqing Ouyang and work with the [Ouyang Lab](https://people.umass.edu/ouyanglab/). Previously, during my M.S. training in Statistics at the University of Illinois Urbana-Champaign, I worked closely with Prof. [Ruoqing Zhu](https://sites.google.com/site/teazrq/) on statistical learning problems in high-dimensional biology, including spatial transcriptomics and dimension reduction. Before that, I completed my B.S. in Mathematics and Applied Mathematics at Beijing Normal University.
 
 My research focuses on statistical and computational methods for high-dimensional biological data, especially spatial transcriptomics and 3D genomics, with particular interest in kernel methods and manifold learning for complex biological systems. I welcome collaborations in these areas and would be glad to connect at [chengyudu@umass.edu](mailto:chengyudu@umass.edu).
