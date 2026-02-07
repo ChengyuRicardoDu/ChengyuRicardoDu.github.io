@@ -52,8 +52,9 @@ My research focuses on statistical and computational methods for high-dimensiona
 
 ## Mentorship & Lab
 
-- Current lab: [Ouyang Lab, UMass Amherst](https://people.umass.edu/ouyanglab/)
-- Previous research mentor: [Ruoqing Zhu, Ph.D.](https://sites.google.com/site/teazrq/)
+I am currently a doctoral student in Biostatistics at UMass Amherst, where I am advised by Dr. Zhengqing Ouyang and work with the [Ouyang Lab](https://people.umass.edu/ouyanglab/).
+
+Previously, during my M.S. training at the University of Illinois Urbana-Champaign, I worked closely with Prof. [Ruoqing Zhu](https://sites.google.com/site/teazrq/) on statistical learning problems in high-dimensional biology, including spatial transcriptomics and dimension reduction.
 
 ## Previous Research Experience
 
@@ -95,5 +96,4 @@ My research focuses on statistical and computational methods for high-dimensiona
 
 - Email: [chengyudu@umass.edu](mailto:chengyudu@umass.edu)
 - Website: [chengyuricardodu.github.io](https://chengyuricardodu.github.io)
-
 
