@@ -15,6 +15,8 @@ redirect_from:
 - [Education](#education)
 - [Selected Courses](#selected-courses-phd-level)
 - [Research Interests](#research-interests)
+- [Mentorship & Lab](#mentorship--lab)
+- [Previous Research Experience](#previous-research-experience)
 - [Teaching Experience](#teaching-experience)
 - [Publications / Preprints](#publications--preprints)
 - [Honors](#honors--awards)
@@ -47,6 +49,17 @@ My research focuses on statistical and computational methods for high-dimensiona
 - Kernel Methods
 - Manifold Learning
 - High-dimensional Data Analysis
+
+## Mentorship & Lab
+
+- Current lab: [Ouyang Lab, UMass Amherst](https://people.umass.edu/ouyanglab/)
+- Previous research mentor: [Ruoqing Zhu, Ph.D.](https://sites.google.com/site/teazrq/)
+
+## Previous Research Experience
+
+- Research Assistant, UIUC (May 2023 - Present): Spatially smoothed dimension reduction for spatial transcriptomics; developed RKHS-based embeddings and an R package workflow.
+- Research Assistant, UIUC (Sep 2023 - May 2024): Convergence cross-mapping analysis for malaria transmission drivers.
+- Collaborative Project, UIUC (Spring 2024): Statistical analysis of m5C modification and mRNA phase-transition associations.
 
 ## Teaching Experience
 
@@ -82,6 +95,5 @@ My research focuses on statistical and computational methods for high-dimensiona
 
 - Email: [chengyudu@umass.edu](mailto:chengyudu@umass.edu)
 - Website: [chengyuricardodu.github.io](https://chengyuricardodu.github.io)
-
 
 
