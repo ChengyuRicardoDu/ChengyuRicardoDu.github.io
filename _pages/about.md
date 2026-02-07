@@ -15,7 +15,6 @@ redirect_from:
 - [Education](#education)
 - [Selected Courses](#selected-courses-phd-level)
 - [Research Interests](#research-interests)
-- [Previous Research Experience](#previous-research-experience)
 - [Teaching Experience](#teaching-experience)
 - [Publications / Preprints](#publications--preprints)
 - [Honors](#honors--awards)
@@ -24,7 +23,7 @@ redirect_from:
 
 ## Profile
 
-I am a doctoral student in Biostatistics at the University of Massachusetts Amherst, where I am advised by Dr. Zhengqing Ouyang and work with the [Ouyang Lab](https://people.umass.edu/ouyanglab/). I am also an M.S. student in Computer Science at UMass Amherst. Previously, during my M.S. training in Statistics at the University of Illinois Urbana-Champaign, I worked closely with Prof. [Ruoqing Zhu](https://sites.google.com/site/teazrq/) on statistical learning problems in high-dimensional biology, including spatial transcriptomics and dimension reduction. I received my B.S. in Mathematics and Applied Mathematics from Beijing Normal University.
+I am a doctoral student in Biostatistics at the University of Massachusetts Amherst, where I am advised by Dr. Zhengqing Ouyang and work with the [Ouyang Lab](https://people.umass.edu/ouyanglab/). Previously, during my M.S. training in Statistics at the University of Illinois Urbana-Champaign, I worked closely with Prof. [Ruoqing Zhu](https://sites.google.com/site/teazrq/) on statistical learning problems in high-dimensional biology, including spatial transcriptomics and dimension reduction. I received my B.S. in Mathematics and Applied Mathematics from Beijing Normal University.
 
 My research focuses on statistical and computational methods for high-dimensional biological data, especially spatial transcriptomics and 3D genomics, with particular interest in kernel methods and manifold learning for complex biological systems.
 
@@ -48,12 +47,6 @@ My research focuses on statistical and computational methods for high-dimensiona
 - Kernel Methods
 - Manifold Learning
 - High-dimensional Data Analysis
-
-## Previous Research Experience
-
-- Research Assistant, UIUC (May 2023 - Present): Spatially smoothed dimension reduction for spatial transcriptomics; developed RKHS-based embeddings and an R package workflow.
-- Research Assistant, UIUC (Sep 2023 - May 2024): Convergence cross-mapping analysis for malaria transmission drivers.
-- Collaborative Project, UIUC (Spring 2024): Statistical analysis of m5C modification and mRNA phase-transition associations.
 
 ## Teaching Experience
 
