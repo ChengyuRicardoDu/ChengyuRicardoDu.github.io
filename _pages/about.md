@@ -11,7 +11,7 @@ redirect_from:
 
 ## Navigation
 
-- [Profile](#profile)
+- [About Me](#about-me)
 - [Education](#education)
 - [Selected Courses](#selected-courses-phd-level)
 - [Research Interests](#research-interests)
@@ -19,11 +19,10 @@ redirect_from:
 - [Publications / Preprints](#publications--preprints)
 - [Honors](#honors--awards)
 - [Skills](#skills)
-- [Contact](#contact)
 
-## Profile
+## About Me
 
-I am a doctoral student in Biostatistics at the University of Massachusetts Amherst, where I am advised by Dr. Zhengqing Ouyang and work with the [Ouyang Lab](https://people.umass.edu/ouyanglab/). Previously, during my M.S. training in Statistics at the University of Illinois Urbana-Champaign, I worked closely with Prof. [Ruoqing Zhu](https://sites.google.com/site/teazrq/) on statistical learning problems in high-dimensional biology, including spatial transcriptomics and dimension reduction. I received my B.S. in Mathematics and Applied Mathematics from Beijing Normal University.
+I am a doctoral student in Biostatistics at the University of Massachusetts Amherst, where I am advised by Dr. Zhengqing Ouyang and work with the [Ouyang Lab](https://people.umass.edu/ouyanglab/). Previously, during my M.S. training in Statistics at the University of Illinois Urbana-Champaign, I worked closely with Prof. [Ruoqing Zhu](https://sites.google.com/site/teazrq/) on statistical learning problems in high-dimensional biology, including spatial transcriptomics and dimension reduction. Before that, I completed my B.S. in Mathematics and Applied Mathematics at Beijing Normal University.
 
 My research focuses on statistical and computational methods for high-dimensional biological data, especially spatial transcriptomics and 3D genomics, with particular interest in kernel methods and manifold learning for complex biological systems.
 
@@ -78,7 +77,4 @@ My research focuses on statistical and computational methods for high-dimensiona
 - Developer Tools: VS Code, Shell Scripting
 - Languages: Mandarin (Native), English (Fluent)
 
-## Contact
-
-- Email: [chengyudu@umass.edu](mailto:chengyudu@umass.edu)
-- Website: [chengyuricardodu.github.io](https://chengyuricardodu.github.io)
+I welcome collaborations related to statistical learning, high-dimensional biological data analysis, spatial transcriptomics, and 3D genomics. Feel free to reach out at [chengyudu@umass.edu](mailto:chengyudu@umass.edu).
