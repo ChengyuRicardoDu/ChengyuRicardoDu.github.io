@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Chengyu Du"
 title_separator          : "-"
 name                     : &name "Chengyu Du"
-description              : &description "Doctoral Student in Biostatistics at UMass Amherst"
+description              : &description "Chengyu Du is a Biostatistics PhD student at UMass Amherst working on statistical machine learning, computational biology, spatial transcriptomics, 3D genome organization, Hi-C data, and RNA structure ensembles."
 url                      : https://chengyuricardodu.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChengyuRicardoDu/ChengyuRicardoDu.github.io"
@@ -27,11 +27,11 @@ author:
   bio              : "Doctoral Student in Biostatistics, UMass Amherst"
   location         : "Amherst, Massachusetts"
   employer         : "University of Massachusetts Amherst"
-  uri              : # URL
+  uri              : "https://chengyuricardodu.github.io"
   email            : "chengyudu@umass.edu" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/search/?query=Chengyu+Du&searchtype=author"
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
@@ -125,18 +125,22 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "profile.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : "Person"
+  name                   : "Chengyu Du"
+  links:
+    - "https://chengyuricardodu.github.io"
+    - "https://github.com/ChengyuRicardoDu"
+    - "https://www.linkedin.com/in/chengyu-du"
+    - "https://arxiv.org/search/?query=Chengyu+Du&searchtype=author"
 
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               : false # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
 
@@ -283,7 +287,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
