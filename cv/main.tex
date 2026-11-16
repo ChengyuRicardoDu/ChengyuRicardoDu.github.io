@@ -1,0 +1,468 @@
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\setlength{\multicolsep}{-3.0pt}
+\setlength{\columnsep}{-1pt}
+\usepackage{ragged2e}
+\usepackage{changepage}
+
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.19in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.4in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\classesList}[4]{
+    \item\small{
+        {#1 #2 #3 #4 \vspace{-2pt}}
+  }
+}
+
+
+
+
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{\small #2} \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{\small #2} \\
+    \end{tabular*}\vspace{-16pt}
+}
+
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{1.001\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & \textbf{\small #2}\\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemi{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+% \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+%   \textbf{\href{http://sourabhbajaj.com/}{\Large Sourabh Bajaj}} & Email : \href{mailto:sourabh@sourabhbajaj.com}{sourabh@sourabhbajaj.com}\\
+%   \href{http://sourabhbajaj.com/}{http://www.sourabhbajaj.com} & Mobile : +1-123-456-7890 \\
+% \end{tabular*}
+
+\begin{center}
+    {\Huge \scshape Chengyu Du} \\ \vspace{1pt}
+    Amherst, MA \\ \vspace{1pt}
+    \small % phone number omitted from the public repository
+    \href{mailto:chengyudu@umass.edu}{\raisebox{-0.2\height}\faEnvelope\  \underline{chengyudu@umass.edu}} ~ 
+    \href{https://www.linkedin.com/in/chengyu-du/}{\raisebox{-0.2\height}\faLinkedin\ 
+    \underline{Linkedin}}  ~
+    \href{https://chengyuricardodu.github.io}
+    {\raisebox{-0.2\height}\faGlobe\
+    \underline{Website}}  ~
+    \vspace{-8pt}
+\end{center}
+
+
+%-----------EDUCATION-----------
+\section{EDUCATION}
+    \resumeSubHeadingListStart
+    \resumeSubheading
+      {University of Massachusetts Amherst}{Aug. 2024 -- Present}
+      {Ph.D. Candidate in Biostatistics, Advisor: Dr. Zhengqing Ouyang}{Amherst, Massachusetts}
+    %\resumeSubheading
+      %{University of Massachusetts Amherst}{Jan. 2025 -- Present}
+      %{Master Student in Computer Science}{Amherst, Massachusetts}
+      \resumeSubheading
+      {University of Illinois Urbana-Champaign}{Aug. 2022 -- May 2024}
+      {Master of Science in Statistics}{Champaign, Illinois}      
+    \resumeSubheading
+      {Beijing Normal University}{Sep. 2017 -- Jun. 2021}
+      {Bachelor of Science in Mathematics and Applied Mathematics}{Beijing, China}
+    \resumeSubHeadingListEnd
+
+
+%------Research Profile-------
+\section{PROFILE}
+\begin{flushleft}
+\begin{adjustwidth}{0pt}{0pt}
+\justifying
+\small
+I am an interdisciplinary Ph.D. candidate working at the intersection of
+\textbf{statistics}, \textbf{machine learning}, and \textbf{computational biology}.
+My research develops statistical and computational methods for structured,
+high-dimensional biological data, including
+\textbf{spatial transcriptomics},
+\textbf{3D genome organization (Hi-C)},
+and \textbf{RNA structure ensembles}.
+Methodologically, I am interested in
+\textbf{kernel methods},
+\textbf{representation learning},
+\textbf{high-dimensional inference},
+\textbf{scan statistics},
+and \textbf{optimization-based approaches}
+for recovering biological structure from sparse and noisy measurements.
+\end{adjustwidth}
+\end{flushleft}
+
+
+
+%-----------SELECTED COURSES-----------
+\section{SELECTED PhD COURSEWORK}
+
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{Statistical Theory and Inference}{}{}{}
+\vspace{-5pt}
+\begin{multicols}{3}
+\begin{itemize}[leftmargin=0.15in, label={}]
+    \item Probability and Measure Theory
+    \item Large Sample Theory
+    \item Advanced Mathematical Statistics
+    \item Advanced Regression Models I \& II
+    \item Applied Bayesian Inference
+    \item Mixed Model Analysis
+    \item Survival Analysis
+    \item Multivariate Analysis
+    \item Time Series Analysis
+\end{itemize}
+\end{multicols}
+
+\resumeSubheading
+{Statistical Machine Learning and AI}{}{}{}
+\vspace{-5pt}
+\begin{multicols}{3}
+\begin{itemize}[leftmargin=0.15in, label={}]
+    \item Statistical Learning
+    \item High-Dimensional Data Analysis
+    \item Reinforcement Learning
+    \item Probabilistic Graphical Models
+    \item Neural Networks
+    \item Computational Bio \& Bioinform
+\end{itemize}
+\end{multicols}
+
+\resumeSubHeadingListEnd
+
+
+
+
+%------HONORS/REWARDS-------
+
+\section{HONORS \& AWARDS}
+  \resumeSubHeadingListStart
+    \resumeSubSubheading
+      {SPHHS Dean’s PhD Fellowship (\$30,000)}{UMass Amherst 2024 -- 2026}
+    \resumeSubSubheading
+      {Merit-based Scholarship}{BNU (China) 2018 -- 2021}
+  \resumeSubHeadingListEnd
+\vspace{-0pt}
+
+
+%-----------GRANTS-----------
+\section{GRANTS}
+\resumeSubHeadingListStart
+  \resumeSubheading
+    {PhRMA Foundation Predoctoral Fellowship in Drug Discovery}{Submitted Apr. 2026}
+    {``AI-Driven 3D Genome Aberration for Epigenetic Drug Targets'' --- PI; 2-year stipend (\textit{Under Review})}{}
+\resumeSubHeadingListEnd
+\vspace{-10pt}
+
+
+
+%-----------PUBLICATIONS-----------
+\section{PUBLICATIONS/PREPRINTS}
+
+\textit{$\dagger$} These authors contributed equally to this work.
+
+%\textit{$\ddag$} These authors also contributed equally to this work.
+
+\vspace{-10pt}
+
+%--- In Revision / Submitted / Manuscript ---
+\subsection*{In Revision / Submitted / Manuscript}
+\begin{itemize}
+
+\item \textbf{Chengyu Du}, Mengfan Xu.
+``Conformal-Style Quantile Analyses for Stochastic Bandits.''
+\textit{arXiv preprint arXiv:2605.07115}, 2026.
+\href{https://arxiv.org/abs/2605.07115}{[arXiv]}
+
+
+\item \textbf{Chengyu Du}\ensuremath{^{\dagger}}, Zirui Li\ensuremath{^{\dagger}}, Boyi Guo, Ruoqing Zhu. ``Smoothed Dimension Reduction in Spatial Transcriptomics Through
+Functional Embedding." \textbf{Submitted}.
+
+%\item Yasmin Rubio-Palis\ensuremath{^{\dagger}},
+%Lelys Bravo de Guenni\ensuremath{^{\dagger}},
+%Carol Song\textsuperscript{\ddag},
+%Songyuan Wang\textsuperscript{\ddag},
+%Linjia Feng\textsuperscript{\ddag},
+%Tymon Duchnicki\textsuperscript{\ddag},
+%Xiao Zhang\textsuperscript{\ddag},
+%\textbf{Chengyu Du}\textsuperscript{\ddag}. "Using machine learning to overcome mosquito collections
+%missing data for malaria modeling." \textbf{Manuscript in preparation}.
+
+\end{itemize}
+
+\vspace{-20pt}
+
+%--- Published / Accepted ---
+\subsection*{Published / Accepted}
+\begin{itemize}
+
+\item \textbf{Chengyu Du}, Yingtong Peng, Zhengyuan Qu, Chixueyuan Wang. ``Measuring Dependence With HSIC." \textit{World Scientific Research Journal}, Volume 6 Issue 10, 2020.
+
+
+\end{itemize}
+
+\vspace{-15pt}
+
+%-----------CONFERENCE PRESENTATIONS-----------
+\section{CONFERENCE PRESENTATIONS}
+\resumeSubHeadingListStart
+
+  \resumeSubheading
+  {\parbox[t]{0.75\textwidth}{Poster: Mapping Cotranscriptional RNA Structure Dynamics Across the Pre-rRNA Transcript}}{May 2026}
+  {UMass SPHHS Research Day 2026}{Amherst, Massachusetts, USA}
+
+  \vspace{2pt}
+
+  \resumeSubheading
+  {\parbox[t]{0.75\textwidth}{Poster: Robust 3D Chromatin Structure Modeling Integrating Activation Function with Model-Based Distance Embedding}}{Jun. 2025}
+  {New England Statistical Society (NESS) Conference 2025}{New Haven, Connecticut, USA}
+
+  \vspace{2pt}
+
+  \resumeSubheading
+    {\parbox[t]{0.75\textwidth}{Poster: The Effects of Long Working Hours on Obesity Among American Adults}}{Jun. 2025}
+    {American Society for Nutrition -- NUTRITION 2025 Conference}{Orlando, Florida, USA}
+
+\resumeSubHeadingListEnd
+\vspace{-16pt}
+
+
+\section{SERVICE}
+\begin{itemize}
+  \item Subreviewer for \textit{ISMB/ECCB} 2025; \textit{ISMB} 2026; \textit{Communications Biology} 2026
+  \item Member, \textit{American Statistical Association (ASA)}
+  \item Member, \textit{New England Statistical Society (NESS)}
+\end{itemize}
+\vspace{-10pt}
+
+%-----------Research EXPERIENCE-----------
+
+
+\section{RESEARCH EXPERIENCE}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{RNA Cotranscriptional Folding and Structure Ensemble Inference}{Oct. 2025 -- Present}
+{Research Assistant, Supervisor: Dr. Zhengqing Ouyang}{SPHHS, UMass Amherst}
+\resumeItemListStart
+\resumeItem{Developed computational pipelines for RNA cotranscriptional folding analysis by integrating Sfold-sampled secondary structures, DMS reactivity profiles, and accessibility estimates.}
+\resumeItem{Formulated structure deconvolution as a constrained optimization problem to infer mixture weights over candidate RNA structures while incorporating experimental probing constraints.}
+\resumeItem{Designed cross-transcript and local-neighbor regularization strategies to stabilize inferred RNA structure ensembles across transcript positions.}
+\resumeItemListEnd
+
+\resumeSubheading
+{Statistical Detection of Structural Variants from Hi-C Contact Maps}{Jul. 2025 -- Apr. 2026}
+{Research Assistant, Supervisor: Dr. Zhengqing Ouyang}{SPHHS, UMass Amherst}
+\resumeItemListStart
+\resumeItem{Developed a scan-statistics framework for detecting structural variants from Hi-C contact maps, combining kernel density estimation, multi-bandwidth rejection regions, and family-wise error rate control.}
+\resumeItem{Designed bandwidth-selection and rejection-region refinement strategies to identify translocation and CNV signals while reducing diagonal and coverage-driven artifacts.}
+\resumeItem{Implemented scalable R/C++ pipelines for Hi-C matrix construction, KDE-based signal detection, and genomic interval annotation of candidate SV regions.}
+\resumeItemListEnd
+
+\resumeSubheading
+{Robust 3D Chromatin Reconstruction via Improved MDE}{Nov. 2024 -- Jun. 2025}
+{Research Assistant, Supervisor: Dr. Zhengqing Ouyang}{SPHHS, UMass Amherst}
+\resumeItemListStart
+\resumeItem{Developed improved multidimensional embedding methods for reconstructing 3D chromatin structure from noisy Hi-C contact maps, incorporating robust loss functions, weighted distance constraints, and coverage-aware contact transformations.}
+\resumeItem{Built automated R/Python pipelines for large-scale simulation, parameter tuning, and comparative visualization of chromatin reconstruction accuracy.}
+\resumeItemListEnd
+
+\resumeSubheading
+{Spatially Smoothed Dimension Reduction}{May 2023 -- May 2025}
+{Research Assistant, Supervisor: Dr. Ruoqing Zhu}{Department of Statistics, UIUC}
+\resumeItemListStart
+\resumeItem{Developed spatially regularized embeddings for single subjects and consistent embeddings across multiple subjects with similar spatial information.}
+\resumeItem{Implemented Reproducing Kernel Hilbert Space (RKHS) to control the smoothness of embeddings.}
+\resumeItem{Incorporated interchangeable likelihood functions and data preprocessing methods to enhance universality across diverse data sources and improve interpretability.}
+\resumeItem{Independently developed an R package, to be uploaded to CRAN.}
+\resumeItemListEnd
+
+\resumeSubheading
+{Convergent Cross Mapping in Malaria Transmission}{Sep. 2023 -- May 2024}
+{Research Assistant, Supervisor: Dr. Lelys Bravo De Guenni}{Department of Statistics, UIUC}
+\resumeItemListStart
+\resumeItem{Explored the correlation and lag values between potential drivers and malaria cases over time.}
+\resumeItem{Verified causal effects through convergent cross-mapping analysis and comparison with other methods.}
+\resumeItemListEnd
+
+\resumeSubheading
+{Correlation between m5C Modification and Phase Transition of mRNAs}{Spring 2024}
+{Collaborative Course Project, Supervisor: Dr. Jing Yang}{STAT 427, UIUC}
+\resumeItemListStart
+\resumeItem{Processed and categorized RNA solubility and methylation data, as well as RNA expression data, for subsequent clustering and visualization analysis.}
+\resumeItem{Performed hypothesis testing using chi-square tests and ordinal logistic regression, and conducted sensitivity analysis to verify the stability of the results.}
+\resumeItemListEnd
+
+\resumeSubheading
+{Measure Independence with Hilbert-Schmidt Independence Criterion}{Summer 2020}
+{Collaborative Research Project, Supervisor: Dr. Dino Sejdinovic}{Remote}
+\resumeItemListStart
+\resumeItem{Explored and applied the Hilbert-Schmidt Independence Criterion (HSIC) to measure independence.}
+\resumeItem{Selected the bandwidth of kernel functions using the median heuristic.}
+\resumeItem{Conducted independence hypothesis tests on the 'Wine' dataset using Python.}
+\resumeItem{Resulted in publication (see Publications).}
+\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+\vspace{-16pt}
+
+
+
+
+
+
+
+%-----------Teaching Experience-----------
+%-----------Teaching Experience-----------
+\section{TEACHING EXPERIENCE}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+  {University of Massachusetts Amherst}{2025 -- 2026}
+  {Teaching Assistant}{}
+  \resumeItemListStart
+    \resumeItem{BIOSTATS 601: Probability and Statistical Inference for Health Data Science (Fall 2026)}
+    \resumeItem{BIOSTATS 530: Introduction to Statistical Computing in Data Science using R (Spring 2026 \& Fall 2026)}
+    \resumeItem{BIOSTATS 590B: Introduction to Bayesian Inference (Spring 2026)}
+    \resumeItem{BIOSTATS 540: Introductory Biostatistics (Fall 2025)}
+  \resumeItemListEnd
+
+\resumeSubheading
+  {University of Illinois Urbana-Champaign}{Fall 2023}
+  {Teaching Assistant}{STAT 432: Basics of Statistical Learning}
+
+\resumeSubHeadingListEnd
+\vspace{-12pt}
+
+
+
+
+%-----------Work Experience-----------
+\section{WORK \& INTERNSHIP EXPERIENCE}
+  \resumeSubHeadingListStart
+      \resumeSubheading
+      {Polytechnic Innovation (Beijing) Investment Management Co., Ltd.}{May 2021 -- Aug. 2021}
+      {Business Associate}{Beijing, China}
+      \resumeItemListStart
+        \resumeItem{Conducted inspection, analysis, and reporting on 50\% of the company's new projects weekly.}
+        \resumeItem{Performed financial forecasting by analyzing revenue models and data insights of projects.}
+      \resumeItemListEnd
+
+      \resumeSubheading
+      {NetEase Game User Research Department, Guangzhou}{Oct. 2020 -- Dec. 2020}
+      {Data Analyst}{Remote}
+      \resumeItemListStart
+        \resumeItem{Utilized Python for data visualization and cluster analysis of beta testers' data.}
+        \resumeItem{Enhanced future revenue by analyzing consumption trends and summarizing user profiles.}
+      \resumeItemListEnd
+      
+\resumeSubHeadingListEnd
+\vspace{-16pt}
+
+
+
+
+
+
+%-----------Technical SKILLS-----------
+\section{SKILLS}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Typesetting and Publishing}{: LaTeX, Markdown} \\
+     \textbf{Programming Languages}{: Python, R, MATLAB, C++} \\
+     \textbf{Developer Tools}{: VS Code, Shell Scripting} \\
+     \textbf{Languages}{: Mandarin (native), English (fluent)} \\
+    }}
+ \end{itemize}
+
+
+\end{document}

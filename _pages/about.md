@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "Chengyu Du, Biostatistics PhD Student"
-description: "Chengyu Du is a doctoral student in Biostatistics at UMass Amherst working on statistical machine learning, computational biology, spatial transcriptomics, 3D genome organization, and RNA structure ensembles."
+title: "Chengyu Du, Biostatistics PhD Candidate"
+description: "Chengyu Du is a Ph.D. candidate in Biostatistics at UMass Amherst working on statistical machine learning, computational biology, spatial transcriptomics, 3D genome organization, and RNA structure ensembles."
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a doctoral student in Biostatistics at the University of Massachusetts Amherst, advised by Dr. Zhengqing Ouyang in the [Ouyang Lab](https://people.umass.edu/ouyanglab/). My research sits at the intersection of statistics, machine learning, and computational biology. I develop statistical and computational methods for structured, high-dimensional biological data, including spatial transcriptomics, 3D genome organization from Hi-C data, and RNA structure ensembles.
+I am a Ph.D. candidate in Biostatistics at the University of Massachusetts Amherst, advised by Dr. Zhengqing Ouyang in the [Ouyang Lab](https://people.umass.edu/ouyanglab/). My research sits at the intersection of statistics, machine learning, and computational biology. I develop statistical and computational methods for structured, high-dimensional biological data, including spatial transcriptomics, 3D genome organization from Hi-C data, and RNA structure ensembles.
 
 Methodologically, I am interested in kernel methods, representation learning, high-dimensional inference, scan statistics, and optimization-based approaches for recovering biological structure from sparse and noisy measurements. Previously, I completed an M.S. in Statistics at the University of Illinois Urbana-Champaign, where I worked with Prof. [Ruoqing Zhu](https://sites.google.com/site/teazrq/) on statistical learning for high-dimensional biology, and a B.S. in Mathematics and Applied Mathematics at Beijing Normal University.
 

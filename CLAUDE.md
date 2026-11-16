@@ -47,8 +47,17 @@ Jekyll（academicpages 模板）站点，GitHub Pages 直接从 `master` 构建�
 3. CV 里没有但主页上有的条目不要直接删，先问用户。
 4. 修改数据文件，本地构建验证，然后提交。
 
-**CV 位置**：尚未确定。2026-11 在用户的 Google Drive 中只找到 2023 年的旧简历
-（`Resume-Chengyu Du-4.docx`），没有当前版本。用户告知位置后把它记在这里。
+**CV 位置**：`cv/main.tex`（LaTeX 源文件，不参与站点构建）。用户给出新版 CV 时覆盖
+这个文件再同步。仓库是公开的，**存入前删掉电话号码**等不想公开的联系方式。
+
+主页是 CV 的精简版，以下差异是有意保留的，同步时不要“补齐”：
+
+- CV 中的 Selected PhD Coursework、Work & Internship Experience 不放主页。
+- Research Experience 只放四个主要项目；CV 里的 malaria CCM、m5C 课程项目、HSIC
+  暑期项目不放主页。各条目的措辞在主页上略有改写，CV 措辞没有实质变化时不必改。
+- Selected GitHub Projects、Skills 里的 “Methods and Tools” 只在主页上有。
+
+上次同步：2026-11-16。
 
 ## 验证与发布
 
@@ -64,11 +73,5 @@ scripts/local-build.sh /tmp/site-check
 
 ## 待用户确认的事项
 
-截至 2026-11，下列内容可能已过时：
-
-- PhRMA Fellowship（2026-04 提交）仍标注 “under review”。
-- “Smoothed Dimension Reduction…” 仍标注 “Manuscript in preparation”。
-- UMass 助教时间写的是 “2025 - 2026”，课程只列到 Fall 2026。
-- SPHHS Dean's PhD Fellowship 写的是 “2024 - 2026”。
-
-确认后更新数据文件并从本列表删除对应条目。
+- CV（2026-11 版）里 PhRMA Fellowship 仍是 “Under Review”，结果出来后更新
+  `_data/profile/grants.yml` 和 `cv/main.tex`。
