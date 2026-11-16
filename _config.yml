@@ -152,6 +152,8 @@ include:
   - files
 exclude:
   - .trash
+  - CLAUDE.md
+  - scripts
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

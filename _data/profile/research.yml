@@ -1,0 +1,24 @@
+# Newest first.
+- title: 'RNA Cotranscriptional Folding and Structure Ensemble Inference'
+  role: 'Research Assistant, UMass Amherst, supervised by Dr. Zhengqing Ouyang (Oct. 2025 - Present)'
+  bullets:
+    - 'Developed computational pipelines for RNA cotranscriptional folding analysis by integrating Sfold-sampled secondary structures, DMS reactivity profiles, and accessibility estimates.'
+    - 'Formulated structure deconvolution as a constrained optimization problem to infer mixture weights over candidate RNA structures while incorporating experimental probing constraints.'
+    - 'Designed cross-transcript and local-neighbor regularization strategies to stabilize inferred RNA structure ensembles across transcript positions.'
+- title: 'Statistical Detection of Structural Variants from Hi-C Contact Maps'
+  role: 'Research Assistant, UMass Amherst, supervised by Dr. Zhengqing Ouyang (Jul. 2025 - Apr. 2026)'
+  bullets:
+    - 'Developed a scan-statistics framework for detecting structural variants from Hi-C contact maps, combining kernel density estimation, multi-bandwidth rejection regions, and family-wise error rate control.'
+    - 'Designed bandwidth-selection and rejection-region refinement strategies to identify translocation and CNV signals while reducing diagonal and coverage-driven artifacts.'
+    - 'Implemented scalable R/C++ pipelines for Hi-C matrix construction, KDE-based signal detection, and genomic interval annotation of candidate SV regions.'
+- title: 'Robust 3D Chromatin Reconstruction via Improved MDE'
+  role: 'Research Assistant, UMass Amherst, supervised by Dr. Zhengqing Ouyang (Nov. 2024 - Jun. 2025)'
+  bullets:
+    - 'Developed improved multidimensional embedding methods for reconstructing 3D chromatin structure from noisy Hi-C contact maps with robust losses, weighted distance constraints, and coverage-aware contact transformations.'
+    - 'Built automated R/Python pipelines for simulation, parameter tuning, and visualization of chromatin reconstruction accuracy.'
+- title: 'Spatially Smoothed Dimension Reduction'
+  role: 'Research Assistant, UIUC, supervised by Dr. Ruoqing Zhu (May 2023 - May 2025)'
+  bullets:
+    - 'Developed spatially regularized embeddings for single-subject and multi-subject spatial transcriptomics settings.'
+    - 'Used reproducing kernel Hilbert space regularization to control embedding smoothness.'
+    - 'Incorporated interchangeable likelihood functions and preprocessing methods to improve robustness across data sources.'

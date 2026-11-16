@@ -1,0 +1,6 @@
+- name: 'CS690U Final Project'
+  url: https://github.com/ChengyuRicardoDu/CS690U
+  description: 'evaluated k-mer frequency features and foundation-model embeddings for clustering biological sequence datasets, including E. coli noncoding RNAs and MopB family proteins.'
+- name: 'BIOSTAT750 Final Project'
+  url: https://github.com/ChengyuRicardoDu/BIOSTAT750
+  description: 'compared statistical learning methods for credit-card default prediction using R, cross-validation, ROC analysis, regularized regression, tree-based models, and support vector machines.'
