@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Chengyu Du"
 title_separator          : "-"
 name                     : &name "Chengyu Du"
-description              : &description "Chengyu Du is a Biostatistics PhD student at UMass Amherst working on statistical machine learning, computational biology, spatial transcriptomics, 3D genome organization, Hi-C data, and RNA structure ensembles."
+description              : &description "Chengyu Du is a Biostatistics PhD candidate at UMass Amherst working on statistical machine learning, computational biology, spatial transcriptomics, 3D genome organization, Hi-C data, and RNA structure ensembles."
 url                      : https://chengyuricardodu.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChengyuRicardoDu/ChengyuRicardoDu.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Chengyu Du"
   pronouns         : "he/him"  
-  bio              : "Doctoral Student in Biostatistics, UMass Amherst"
+  bio              : "Ph.D. Candidate in Biostatistics, UMass Amherst"
   location         : "Amherst, Massachusetts"
   employer         : "University of Massachusetts Amherst"
   uri              : "https://chengyuricardodu.github.io"
@@ -152,6 +152,9 @@ include:
   - files
 exclude:
   - .trash
+  - CLAUDE.md
+  - cv
+  - scripts
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

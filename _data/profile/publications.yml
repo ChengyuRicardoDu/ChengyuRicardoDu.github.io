@@ -1,0 +1,19 @@
+# Newest first. Fields are Markdown.
+#   authors: author list (bold your own name)
+#   title:   paper title, no quotes
+#   venue:   everything after the title (journal / status / year), ending with a period
+#   links:   optional list of {label, url}
+#   note:    optional trailing note
+- authors: '**Chengyu Du**, Mengfan Xu'
+  title: 'Conformal-Style Quantile Analyses for Stochastic Bandits'
+  venue: '*arXiv preprint arXiv:2605.07115*, 2026.'
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2605.07115
+- authors: '**Chengyu Du**\*, Zirui Li\*, Boyi Guo, Ruoqing Zhu'
+  title: 'Smoothed Dimension Reduction in Spatial Transcriptomics Through Functional Embedding'
+  venue: 'Submitted.'
+  note: '\*Equal contribution.'
+- authors: '**Chengyu Du**, Yingtong Peng, Zhengyuan Qu, Chixueyuan Wang'
+  title: 'Measuring Dependence With HSIC'
+  venue: '*World Scientific Research Journal*, Volume 6, Issue 10, 2020.'
